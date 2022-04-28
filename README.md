@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Anyone can easily understand the basics of redux through this repository. This is very helpful for the beginner. Checkout this repository if you are a beginner. If anyone wants to contribute, then most welcome.
 
 ## Available Scripts
 
